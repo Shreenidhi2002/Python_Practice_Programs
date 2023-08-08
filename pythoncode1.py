@@ -4,5 +4,5 @@ if has_good_credit :
     down_payment = (10/100) * price
 else :
     down_payment = (20/100) * price
-print(f"Downpayment :{down_payment}")
+print(f"Down-payment :{down_payment}")
 
